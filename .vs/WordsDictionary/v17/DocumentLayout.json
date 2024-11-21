@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kira\\Desktop\\WordsDictionary\\",
+  "WorkspaceRootPath": "C:\\Users\\kira\\Desktop\\f\\words-dict\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55D55A4F-ECBE-4438-BB3F-931B352F7497}|WordsDictionary.vcxproj|C:\\Users\\kira\\Desktop\\WordsDictionary\\WordsDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{55D55A4F-ECBE-4438-BB3F-931B352F7497}|WordsDictionary.vcxproj|C:\\Users\\kira\\Desktop\\f\\words-dict\\WordsDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{55D55A4F-ECBE-4438-BB3F-931B352F7497}|WordsDictionary.vcxproj|solutionrelative:WordsDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55D55A4F-ECBE-4438-BB3F-931B352F7497}|WordsDictionary.vcxproj|C:\\Users\\kira\\Desktop\\WordsDictionary\\WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{55D55A4F-ECBE-4438-BB3F-931B352F7497}|WordsDictionary.vcxproj|C:\\Users\\kira\\Desktop\\f\\words-dict\\WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{55D55A4F-ECBE-4438-BB3F-931B352F7497}|WordsDictionary.vcxproj|solutionrelative:WDictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WordsDictionary.cpp",
-              "DocumentMoniker": "C:\\Users\\kira\\Desktop\\WordsDictionary\\WordsDictionary.cpp",
+              "DocumentMoniker": "C:\\Users\\kira\\Desktop\\f\\words-dict\\WordsDictionary.cpp",
               "RelativeDocumentMoniker": "WordsDictionary.cpp",
-              "ToolTip": "C:\\Users\\kira\\Desktop\\WordsDictionary\\WordsDictionary.cpp",
+              "ToolTip": "C:\\Users\\kira\\Desktop\\f\\words-dict\\WordsDictionary.cpp",
               "RelativeToolTip": "WordsDictionary.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-20T20:48:22.54Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "WDictionary.cpp",
-              "DocumentMoniker": "C:\\Users\\kira\\Desktop\\WordsDictionary\\WDictionary.cpp",
+              "DocumentMoniker": "C:\\Users\\kira\\Desktop\\f\\words-dict\\WDictionary.cpp",
               "RelativeDocumentMoniker": "WDictionary.cpp",
-              "ToolTip": "C:\\Users\\kira\\Desktop\\WordsDictionary\\WDictionary.cpp",
+              "ToolTip": "C:\\Users\\kira\\Desktop\\f\\words-dict\\WDictionary.cpp",
               "RelativeToolTip": "WDictionary.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
